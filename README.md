@@ -12,7 +12,7 @@
 
 | Inputs | PointCloud |
 |:-------------------------:|:-------------------------:|
-| <img width="400" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2.jpg?raw=true"> | <img width="500" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2.gif?raw=true"> <\br> <img width="400" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2_pointcloud_1.png?raw=true"> <\br> <img width="400" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2_pointcloud_2.png?raw=true"> |
+| <img width="400" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2.jpg?raw=true"> | <img width="500" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2.gif?raw=true">  <img width="400" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2_pointcloud_1.png?raw=true">  <img width="400" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2_pointcloud_2.png?raw=true"> |
 
 Points in red are the positions of the phone (camera).
 
