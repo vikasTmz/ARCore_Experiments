@@ -16,7 +16,7 @@
     |-- input<i>_view.matrix    (ARCore camera view matrix: Camera.getViewMatrix())
 ```
 
-Download high resolutions test videos from here: https://drive.google.com/open?id=1hqFePacDPE0gt4O1-4DEaVtFKdaC9qNW
+Download high resolution test videos from here: https://drive.google.com/open?id=1hqFePacDPE0gt4O1-4DEaVtFKdaC9qNW
 
 ### Point Cloud estimation:
 
