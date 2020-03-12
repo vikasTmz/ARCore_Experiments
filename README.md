@@ -1,5 +1,7 @@
 # ARCore Experiments
 
+This repository contains PointClouds and Camera properties estimated for some sample scenes using [Google's ARCore API](https://developers.google.com/ar) setup in Android Studios. Specifically, the [PointCloud class](https://developers.google.com/ar/reference/java/arcore/reference/com/google/ar/core/PointCloud) was used to estimate point clouds and the [Camera class](https://developers.google.com/ar/reference/java/arcore/reference/com/google/ar/core/Camera) was used to estimate camera pose, view matrix and projection matrix.
+
 ### Test Data:
 
 ```
@@ -32,7 +34,7 @@ Download high resolution test videos from here: https://drive.google.com/open?id
 |:-------------------------:|:-------------------------:|
 | <img width="400" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2.jpg?raw=true"> | <img width="500" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2.gif?raw=true">  <img width="500" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2_pointcloud_1.png?raw=true">  <img width="500" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene2_pointcloud_2.png?raw=true"> |
 
-Points in red are the positions of the phone (camera).
+*Points in red are the coordinates of the phone (camera).*
 
 - Scene 3:
 
@@ -40,4 +42,4 @@ Points in red are the positions of the phone (camera).
 |:-------------------------:|:-------------------------:|
 | <img width="400" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene3.jpg?raw=true"> |  <img width="500" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene3_pointcloud_1.png?raw=true">  <img width="500" alt=" " src="https://github.com/vikasTmz/ARCore_Experiments/blob/master/images/scene3_pointcloud_2.png?raw=true"> |
 
-Points in red are the positions of the phone (camera).
+*Points in red are the coordinates of the phone (camera).*
