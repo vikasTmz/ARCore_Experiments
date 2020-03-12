@@ -1,5 +1,24 @@
-# ARCore_PointClouds
+# ARCore Experiments
 
+### Test Data:
+
+```
+./test_data:
+|-- camerapose
+|   |-- input<i>_cam.ply (ARCore camera coordinates: Camera.getPose())
+|-- compressed_videos
+|   |-- input<i>.mp4     (compressed input videos)
+|-- pointcloud
+|   |-- input<i>_pc.ply  (ARCore estimated point clouds: PointCloud.getPoints())
+|-- projectionmatrix
+|   |-- input<i>_projection.matrix   (ARCore camera projection matrix: Camera.getProjectionMatrix())
+`-- viewmatrix
+    |-- input<i>_view.matrix    (ARCore camera view matrix: Camera.getViewMatrix())
+```
+
+Download high resolutions test videos from here: https://drive.google.com/open?id=1hqFePacDPE0gt4O1-4DEaVtFKdaC9qNW
+
+### Point Cloud estimation:
 
 - Scene 1:
 
