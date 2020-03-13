@@ -2,6 +2,8 @@
 
 This repository contains PointClouds and Camera properties estimated for some sample scenes using [Google's ARCore API](https://developers.google.com/ar) setup in Android Studios. Specifically, the [PointCloud class](https://developers.google.com/ar/reference/java/arcore/reference/com/google/ar/core/PointCloud) was used to estimate point clouds and the [Camera class](https://developers.google.com/ar/reference/java/arcore/reference/com/google/ar/core/Camera) was used to estimate camera pose, view matrix and projection matrix.
 
+Mobile Device: Pixel 3a.
+
 ### Test Data:
 
 ```
